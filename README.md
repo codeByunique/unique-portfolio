@@ -5,6 +5,10 @@
   <a href="https://atabul-portfolio.netlify.app" target="_blank">🌐 Visit Live Website</a>
 </p>
 
+<p align="center">
+  <img src="https://atabul-portfolio.netlify.app/assets/images/preview.png" alt="Portfolio Main Preview" width="80%" />
+</p>
+
 ---
 
 ## 🎨 Overview
@@ -34,9 +38,9 @@ Designed with a focus on simplicity and elegance, this portfolio gives a quick g
 
 ## 🖼️ Screenshots
 
-| Home Page                      | Contact Page                      |
+| Skill Page                      | Contact Page                      |
 |-------------------------------|-----------------------------------|
-| ![Home](https://atabul-portfolio.netlify.app/assets/images/preview-home.png) | ![Contact](https://atabul-portfolio.netlify.app/assets/images/preview-contact.png) |
+| ![Home](https://atabul-portfolio.netlify.app/assets/images/preview-skill.png) | ![Contact](https://atabul-portfolio.netlify.app/assets/images/preview-contact.png) |
 
 
 ---
